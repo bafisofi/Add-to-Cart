@@ -32,7 +32,7 @@ button {
   text-align: center;
   align-self: stretch;
   font-family: inherit;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 input {
@@ -61,7 +61,7 @@ ul {
 }
 
 ul li {
-  font-size: 25px;
+  font-size: 20px;
   background-color: #b1b0ce;
   font-weight: 500;
   border: 3px #717171 solid;
